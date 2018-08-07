@@ -7,3 +7,5 @@ In this repository you may find:
 3. An [`online interactive analytics web page`](url) providing web access to the interactive analytics constructed using Microsoft Power BI.
 
 For further information or guidance on how you can use the provided data, please contact Mr. Pantelis Natsiavas (pnatsiavas@certh.gr) and Dr. Vassilis Koutkias (vkoutkias@certh.gr).
+
+Link to the corresponding Github page: https://inab-certh.github.io/Knowledge-Engineering-for-Drug-Safety-Systematic-and-mapping-review/
