@@ -4,6 +4,6 @@ This repository contains the files produced during the systematic and mapping re
 In this repository you may find:
 1. The [`Detailed analysis results`](https://github.com/inab-certh/Knowledge-Engineering-for-Drug-Safety-Systematic-and-mapping-review/blob/master/Detailed_analysis_results.xlsx) containing the detailed mapping results of the finally selected papers analysis.
 2. The [`Interactive analytics`](https://github.com/inab-certh/Knowledge-Engineering-for-Drug-Safety-Systematic-and-mapping-review/blob/master/Interactive_analytics.pbix) file created using Microsoft Power BI in order to facilitate the study of the provided results.
-3. An [`online interactive analytics web page`](analytics.md) providing web access to the interactive analytics constructed using Microsoft Power BI.
+3. An [`online interactive analytics web page`](analytics) providing web access to the interactive analytics constructed using Microsoft Power BI.
 
 For further information or guidance on how you can use the provided data, please contact Mr. Pantelis Natsiavas (pnatsiavas@certh.gr) and Dr. Vassilis Koutkias (vkoutkias@certh.gr).
