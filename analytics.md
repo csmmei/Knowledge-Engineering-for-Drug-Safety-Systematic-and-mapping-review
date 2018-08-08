@@ -1,3 +1,3 @@
 The presented interactive figures are based on the main [`analysis results`](https://github.com/inab-certh/Knowledge-Engineering-for-Drug-Safety-Systematic-and-mapping-review/blob/master/Detailed_analysis_results.xlsx) and were built using Microsoft Power BI. The respective Power BI file is also available for [`download`](https://github.com/inab-certh/Knowledge-Engineering-for-Drug-Safety-Systematic-and-mapping-review/blob/master/Interactive_analytics.pbix).
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNjFhZjUzNTItMGQ5ZC00Zjk1LWI5MGItM2RiNDA0MTliN2FhIiwidCI6IjQwZmFjMmViLWYzNzktNGIwOS1iNjU1LTI0M2ZmOGM5NzM5ZCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="933" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiNjFhZjUzNTItMGQ5ZC00Zjk1LWI5MGItM2RiNDA0MTliN2FhIiwidCI6IjQwZmFjMmViLWYzNzktNGIwOS1iNjU1LTI0M2ZmOGM5NzM5ZCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
