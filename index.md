@@ -1,5 +1,5 @@
 # Knowledge Engineering for Drug Safety: A Systematic and mapping review
-This repository contains the files produced during the systematic and mapping review of the papers published regarding Knowledge Engineering and Drug Safety. A paper regarding this systematic review has been submitted and is currently under review.
+This repository contains the files produced during the systematic and mapping review of the scientific papers published regarding Knowledge Engineering and Drug Safety. A paper regarding this systematic review has been submitted and is currently under review.
 
 In this repository you may find:
 1. The [`Detailed analysis results`](https://github.com/inab-certh/Knowledge-Engineering-for-Drug-Safety-Systematic-and-mapping-review/blob/master/Detailed_analysis_results.xlsx) containing the detailed mapping results of the finally selected papers analysis.
