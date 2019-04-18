@@ -1,5 +1,5 @@
-# Knowledge Engineering computational approaches for Drug Safety: Systematic and mapping review
-This repository contains the files produced during the systematic and mapping review of the scientific papers published regarding Knowledge Engineering and Drug Safety. A paper regarding this systematic review has been submitted and is currently under review.
+# Computational Advances in Drug Safety: Systematic and Mapping Review of Knowledge Engineering based Approaches
+This repository contains the source files of the analysis conducted in the scope of a systematic and mapping review on Knowledge Engineering based Approaches for Drug Safety. The respective article has been published in the Special Topic entitled "Computational Approaches for Signal Detection and Management in Pharmacovigilance" of Frontier in Pharmacology [10.3389/fphar.2019.00415](https://www.doi.org/10.3389/fphar.2019.00415)
 
 In this repository you may find:
 1. The [`Detailed analysis results`](Detailed_analysis_results.xlsx) containing the detailed mapping results of the finally selected papers analysis.
